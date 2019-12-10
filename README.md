@@ -8,7 +8,7 @@ Imagine that you can use any nixie tube and not worry about the technical parame
 * Assembly Requirements - <a href="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/raw/master/datasheet/Nixie-Lab-Assembly-Requirements.pdf">download</a>
 * Assembly Instruction - work in progress
 * Master/Slave Configuration - <a href="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/raw/master/datasheet/Nixie-Lab-Master-Slave-Jumper-Settings.pdf">download</a>
-* Schematic - work in progress
+* Schematic - <a href="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/raw/master/datasheet/Nixie-Lab-Schematic.pdf">download</a>
 * <a href="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/tree/master/examples/Arduino">Arduino Example Code</a>
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/extras/nixie-lab-project-cover.jpg"></p>
