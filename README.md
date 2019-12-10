@@ -5,8 +5,9 @@ You can use your favorite platform for this: Arduino, Raspberry Pi, Particle etc
 Imagine that you can use any nixie tube and not worry about the technical parameters: power requirements, current, and what is most troublesome and what you also do not have to worry about are different types of tubes with different pin layout is not a problem either. The device has been designed to make work with nixie tubes as easy as possible.
 **Currently only Arduino is supported, work is underway to extend functionality.
 
+* Assembly Requirements - <a href="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/raw/master/datasheet/Nixie-Lab-Assembly-Requirements.pdf">download</a>
 * Assembly Instruction - work in progress
-* Master/Slave Configuration - work in progress
+* Master/Slave Configuration - <a href="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/raw/master/datasheet/Nixie-Lab-Master-Slave-Jumper-Settings.pdf">download</a>
 * Schematic - work in progress
 * <a href="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/tree/master/examples/Arduino">Arduino Example Code</a>
 
