@@ -5,6 +5,11 @@ You can use your favorite platform for this: Arduino, Raspberry Pi, Particle etc
 Imagine that you can use any nixie tube and not worry about the technical parameters: power requirements, current, and what is most troublesome and what you also do not have to worry about are different types of tubes with different pin layout is not a problem either. The device has been designed to make work with nixie tubes as easy as possible.
 **Currently only Arduino is supported, work is underway to extend functionality.
 
+* Assembly Instruction - work in progress
+* Master/Slave Configuration - work in progress
+* Schematic - work in progress
+* Arduino Example Code - work in progress
+
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/extras/nixie-lab-project-cover.jpg"></p>
 
 The Nixie Lab master module contains: real time clock RTC module DS3231, sensor connector for DHT22 or DHT11, several configuration jumpers, connectors for Arduino board (Arduino Uno form factor). The device is compatible with  5V / 3.3V boards. Instead of the basic Arduino board, using specially designed adapters, the master module can be connected with e.g. Raspberry Pi, other Arduino boards Nano/Micro, Particle Photon / Argon / Xenon, Wemos D1 Mini, D1 Mini Pro, D32, D32 Pro. **Currently only Arduino is supported, work is underway to extend functionality.
