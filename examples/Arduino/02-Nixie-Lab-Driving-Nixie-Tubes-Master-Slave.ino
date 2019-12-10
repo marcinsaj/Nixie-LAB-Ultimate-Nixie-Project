@@ -1,7 +1,7 @@
 // Nixie Lab by Marcin Saj https://nixietester.com
 // https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project
 //
-// Driving Nixie Tubes Example #2
+// Driving Nixie Tubes Example #2 - Master/Slave
 //
 // This example demonstrates how to control up to 8 nixie tubes.
 // The control is carried out using Master/Slave Nixie Lab modules in serial connection.
