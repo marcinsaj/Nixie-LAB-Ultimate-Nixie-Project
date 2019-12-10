@@ -39,6 +39,8 @@
 
 ![Nixie Lab - Assembly Instruction](https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/datasheet/images/nixie-lab-assembly-instruction_19.jpg)
 
+# VIN Connector - Mount only if the control board is not Arduino
+
 ![Nixie Lab - Assembly Instruction](https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/datasheet/images/nixie-lab-assembly-instruction_20.jpg)
 
 ![Nixie Lab - Assembly Instruction](https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/datasheet/images/nixie-lab-assembly-instruction_21.jpg)
