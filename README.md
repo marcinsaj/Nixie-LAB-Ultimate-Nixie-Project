@@ -28,3 +28,4 @@ The control module must be the first module in a series of devices (first from t
 All sockets have the same pin layout which allows easy replacement of the sockets for different nixie tubes without having to change the control program code (e.g. Arduino code). Each of the sockets (connected to the device) provides the valid power supply parameters for the compatible nixie tubes (supply voltage and current). You don’t have to worry about that either.
 **<a href="https://github.com/marcinsaj/Nixie-Tube-Sockets">Show me Compatible Sockets</a>**
 
+<p align="center"><img src="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/extras/nixie-lab-8-5-nixie-tubes-2.jpg"></p>
