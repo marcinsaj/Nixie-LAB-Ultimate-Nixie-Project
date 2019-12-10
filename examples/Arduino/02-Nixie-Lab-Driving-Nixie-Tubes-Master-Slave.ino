@@ -11,7 +11,7 @@ int latchPin = 8;       // Latch input pin
 int clockPin = 9;       // Clock input pin
 
 // First socket translation array
-int nixie1[]={
+uint16_t nixie1[]={
   0b0000000000000010,   // 0 
   0b0010000000000000,   // 1
   0b0100000000000000,   // 2
@@ -25,7 +25,7 @@ int nixie1[]={
 };
 
 // Second socket translation array
-int nixie2[]={
+uint16_t nixie2[]={
   0b1000000000000000,   // 0 
   0b0000000010000000,   // 1
   0b0000000001000000,   // 2
