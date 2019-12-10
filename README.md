@@ -8,7 +8,7 @@ Imagine that you can use any nixie tube and not worry about the technical parame
 * Assembly Instruction - work in progress
 * Master/Slave Configuration - work in progress
 * Schematic - work in progress
-* Arduino Example Code - work in progress
+* <a href="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/tree/master/examples/Arduino">Arduino Example Code</a>
 
 <p align="center"><img src="https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/extras/nixie-lab-project-cover.jpg"></p>
 
