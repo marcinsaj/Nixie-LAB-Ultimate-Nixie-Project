@@ -10,6 +10,7 @@ int dataPin = A0;       // Serial data input pin
 int latchPin = 8;       // Latch input pin
 int clockPin = 9;       // Clock input pin
 
+// First socket translation array
 int nixie1[]={
   0b0000000000000010,   // 0 
   0b0010000000000000,   // 1
@@ -23,6 +24,7 @@ int nixie1[]={
   0b0000000000000100    // 9
 };
 
+// Second socket translation array
 int nixie2[]={
   0b1000000000000000,   // 0 
   0b0000000010000000,   // 1
