@@ -69,10 +69,6 @@
 
 ![Nixie Lab - Assembly Instruction](https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/datasheet/images/nixie-lab-assembly-instruction_33.jpg)
 
-![Nixie Lab - Assembly Instruction](https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/datasheet/images/nixie-lab-assembly-instruction_34.jpg)
-
-![Nixie Lab - Assembly Instruction](https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/datasheet/images/nixie-lab-assembly-instruction_35.jpg)
-
 ![Nixie Lab - Assembly Instruction](https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/datasheet/images/nixie-lab-assembly-instruction_37.jpg)
 
 ![Nixie Lab - Assembly Instruction](https://github.com/marcinsaj/Nixie-LAB-Ultimate-Nixie-Project/blob/master/datasheet/images/nixie-lab-assembly-instruction_38.jpg)
